@@ -19,4 +19,4 @@ data pipelines, and small developer tools for fun.
 brew install shivamsingh262/tap/tailyard
 ```
 
-📫 [LinkedIn](https://linkedin.com/in/shivamsingh262) · shivamsingh262@gmail.com
+🌐 [shivamsingh262.github.io](https://shivamsingh262.github.io) · 📫 [LinkedIn](https://linkedin.com/in/shivamsingh262) · shivamsingh262@gmail.com
