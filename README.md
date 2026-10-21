@@ -9,13 +9,15 @@ data pipelines, and small developer tools for fun.
 
 **Recent projects**
 
-- [tailyard](https://github.com/shivamsingh262/tailyard): one terminal for logs, HTTP traffic, browser console and Redis queues
+- [factguard](https://github.com/shivamsingh262/factguard): keeps LLM-written text free of numbers your code didn't compute
+- [tailyard](https://github.com/shivamsingh262/tailyard): one terminal for logs, HTTP traffic, LLM calls, browser console and Redis queues
 - [moodline](https://github.com/shivamsingh262/moodline): a Claude Code status line with cost, limits and a mood-aware avatar
 - [resume-pdf-builder](https://github.com/shivamsingh262/resume-pdf-builder): resume JSON → polished PDF via headless Chromium
 - [grainfall](https://github.com/shivamsingh262/grainfall): falling-sand sandbox in C++20 + raylib
 - [homebrew-tap](https://github.com/shivamsingh262/homebrew-tap): Homebrew tap for my tools
 
 ```sh
+pip install factguard
 brew install shivamsingh262/tap/tailyard
 ```
 
